@@ -3,7 +3,6 @@
 ## Technology Used
 
 J-meter 
-
 Postman
 
 ## Scenerios
@@ -24,7 +23,7 @@ Postman
 * Run the project.
 * For report genaration use CLI by using the following command: jmeter -n -t Dmoney-api-jmx.jmx -l dmoneyapijmx.csv -e -o Results
 
-#Command Promt Screenshot
+# Command Promt Screenshot
 ![image](https://github.com/Rahat65/Dmoney-Api-jmx/assets/70316722/1b9f0551-9d1e-4181-ae62-771c2fbb7cda)
 
 
