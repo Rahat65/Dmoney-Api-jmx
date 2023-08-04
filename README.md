@@ -2,7 +2,8 @@
 
 ## Technology Used
 
-J-meter /
+J-meter 
+
 Postman
 
 ## Scenerios
